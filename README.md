@@ -11,3 +11,8 @@ Como um cientista de dados combino habilidades analíticas, curiosidade, pensame
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ravi-nogueira-8482a7ab/)
+
+## Projetos:
+Veja abaixo alguns projetos simples que fiz para transmissão de conhecimento:
+
+* **Detecção de fraudes em Cartões de Crétido:** bit.ly/33Ytqam
